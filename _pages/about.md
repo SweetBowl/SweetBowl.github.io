@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-
-Hi! I am Xu Zhao, a junior majoring in software engineering in [University of Electronic Science and Technology of China(UESTC)](https://www.uestc.edu.cn/). 
+Hi, I am Xu Zhao, a junior majoring in software engineering in [University of Electronic Science and Technology of China(UESTC)](https://www.uestc.edu.cn/). 
 
 ## News
 
